@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ y\ speed
+comment0.target=mob(int,\ int,\ int)
+comment1.params=
+comment1.target=void\ clear()
+comment2.params=
+comment2.target=void\ paint()
+comment3.params=
+comment3.target=boolean\ isCollide()
+comment4.params=
+comment4.target=void\ behavior()
+numComments=5

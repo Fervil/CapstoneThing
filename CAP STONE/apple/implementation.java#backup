@@ -1,0 +1,12 @@
+
+public class implementation extends WSS{
+    
+    public implementation(){
+        (new server()).start();
+    }
+    
+    public static void main(String[] args){
+        new implementation()
+    }
+    
+}

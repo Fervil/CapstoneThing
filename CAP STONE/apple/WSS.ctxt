@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WSS()
+comment1.params=arg
+comment1.target=java.lang.String\ wssCompile(java.lang.String)
+comment2.params=request
+comment2.target=java.lang.String\ parseRequest(java.lang.String)
+comment3.params=str
+comment3.target=java.lang.String\ readFile(java.lang.String)
+numComments=4
